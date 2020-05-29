@@ -5,6 +5,8 @@ Spyder Editor
 This is a temporary script file.
 """
 
+#Isaac was here
+
 import numpy as np
 import pandas as pd
 import warnings
