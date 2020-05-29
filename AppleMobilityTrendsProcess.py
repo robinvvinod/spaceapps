@@ -5,7 +5,7 @@ Spyder Editor
 This is a temporary script file.
 """
 
-#Isaac was here
+
 
 import numpy as np
 import pandas as pd
@@ -16,7 +16,7 @@ import warnings
 import time
 import datetime
 
-print("L8r Sk8r")
+
 warnings.filterwarnings('ignore')
 start = time.time()
 print datetime.datetime.fromtimestamp(start).strftime('%c')
