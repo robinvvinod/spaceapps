@@ -14,7 +14,7 @@ import warnings
 import time
 import datetime
 
-
+print("L8r Sk8r")
 warnings.filterwarnings('ignore')
 start = time.time()
 print datetime.datetime.fromtimestamp(start).strftime('%c')
