@@ -1,0 +1,330 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920___1;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920___1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920___1 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920___1;
+	--web-enable-deep-linking: true;
+}
+.Rectangle_3 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1747px;
+	height: 805px;
+	left: 85px;
+	top: 223px;
+}
+.Rectangle_1 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1938px;
+	height: 127px;
+	left: 0px;
+	top: 0px;
+}
+#Image_1 {
+	position: absolute;
+	width: 93px;
+	height: 93px;
+	left: 38px;
+	top: 8px;
+	overflow: visible;
+}
+#CovidView {
+	position: absolute;
+	left: 161px;
+	top: 27px;
+	overflow: visible;
+	width: 194px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(112,112,112,1);
+}
+.Rectangle_2 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1747px;
+	height: 87px;
+	left: 85px;
+	top: 154px;
+}
+#ID7_day_Projections {
+	position: absolute;
+	left: 103px;
+	top: 168px;
+	overflow: visible;
+	width: 232px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+.Rectangle_5 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 636px;
+	height: 110px;
+	left: 1154px;
+	top: 321px;
+}
+.Rectangle_4 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 636px;
+	height: 71px;
+	left: 1154px;
+	top: 268px;
+}
+#Day {
+	position: absolute;
+	left: 1172px;
+	top: 278px;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Group_1 {
+	position: absolute;
+	width: 543.272px;
+	height: 23px;
+	left: 1194.5px;
+	top: 367px;
+	overflow: visible;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 543.272px;
+	height: 1px;
+	left: 0px;
+	top: 10.823px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 23px;
+	left: 34.5px;
+	top: 0px;
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 23px;
+	left: 112.5px;
+	top: 0px;
+}
+.Ellipse_3 {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 23px;
+	left: 187.5px;
+	top: 0px;
+}
+.Ellipse_4 {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 23px;
+	left: 261.5px;
+	top: 0px;
+}
+.Ellipse_5 {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 23px;
+	left: 336.5px;
+	top: 0px;
+}
+.Ellipse_6 {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 23px;
+	left: 410.5px;
+	top: 0px;
+}
+.Ellipse_7 {
+	position: absolute;
+	overflow: visible;
+	width: 22px;
+	height: 23px;
+	left: 488.5px;
+	top: 0px;
+}
+#May_22 {
+	position: absolute;
+	left: 1207px;
+	top: 336px;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(112,112,112,1);
+}
+#May_23 {
+	position: absolute;
+	left: 1291px;
+	top: 336px;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(112,112,112,1);
+}
+#May_24 {
+	position: absolute;
+	left: 1362px;
+	top: 336px;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(112,112,112,1);
+}
+#May_25 {
+	position: absolute;
+	left: 1437px;
+	top: 336px;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(112,112,112,1);
+}
+#May_26 {
+	position: absolute;
+	left: 1512px;
+	top: 336px;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(112,112,112,1);
+}
+#May_26_ {
+	position: absolute;
+	left: 1587px;
+	top: 336px;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(112,112,112,1);
+}
+#May_27 {
+	position: absolute;
+	left: 1658px;
+	top: 336px;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(112,112,112,1);
+}
+.Rectangle_6 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 636px;
+	height: 486px;
+	left: 1154px;
+	top: 507px;
+}
+.Rectangle_7 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 636px;
+	height: 71px;
+	left: 1154px;
+	top: 454px;
+}
+#County {
+	position: absolute;
+	left: 1172px;
+	top: 464px;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#index {
+	position: absolute;
+	width: 565px;
+	height: 397px;
+	left: 1172px;
+	top: 543px;
+	overflow: visible;
+}

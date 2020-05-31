@@ -1,0 +1,687 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 2;
+	--web-view-id: Web_1920___2;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920___2;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920___2 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 2;
+	--web-view-id: Web_1920___2;
+	--web-enable-deep-linking: true;
+}
+.Rectangle_3 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1747px;
+	height: 805px;
+	left: 85px;
+	top: 223px;
+}
+.Rectangle_1 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1938px;
+	height: 127px;
+	left: 0px;
+	top: 0px;
+}
+#Image_1 {
+	position: absolute;
+	width: 93px;
+	height: 93px;
+	left: 38px;
+	top: 8px;
+	overflow: visible;
+}
+#CovidView {
+	position: absolute;
+	left: 161px;
+	top: 27px;
+	overflow: visible;
+	width: 194px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(112,112,112,1);
+}
+.Rectangle_2 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1747px;
+	height: 87px;
+	left: 85px;
+	top: 154px;
+}
+#Risk_Profile_Projection {
+	position: absolute;
+	left: 103px;
+	top: 168px;
+	overflow: visible;
+	width: 289px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+.Rectangle_5 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 420px;
+	height: 110px;
+	left: 131px;
+	top: 317px;
+}
+.Rectangle_4 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 420px;
+	height: 71px;
+	left: 131px;
+	top: 264px;
+}
+#Enter_your_county {
+	position: absolute;
+	left: 149px;
+	top: 274px;
+	overflow: visible;
+	width: 198px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Dropdown_2 {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 149px;
+	top: 342px;
+	overflow: visible;
+}
+.Rectangle_613 {
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+}
+#Minnesota {
+	position: absolute;
+	left: 20px;
+	top: 13px;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir Next;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(38,153,251,1);
+}
+#Symbol_156___1 {
+	position: absolute;
+	width: 9.4px;
+	height: 6.1px;
+	left: 331.35px;
+	top: 22px;
+	overflow: visible;
+}
+.Path_36 {
+	overflow: visible;
+	position: absolute;
+	width: 9.4px;
+	height: 6.1px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_614 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 420px;
+	height: 110px;
+	left: 131px;
+	top: 500px;
+}
+.Rectangle_615 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 420px;
+	height: 71px;
+	left: 131px;
+	top: 447px;
+}
+#Enter_your_age {
+	position: absolute;
+	left: 149px;
+	top: 457px;
+	overflow: visible;
+	width: 165px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Input___Entered_Value {
+	position: absolute;
+	width: 100px;
+	height: 50px;
+	left: 149px;
+	top: 521px;
+	overflow: visible;
+}
+.Rectangle_176 {
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+}
+#ID68 {
+	position: absolute;
+	left: 18px;
+	top: 17px;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(38,153,251,1);
+}
+.Rectangle_177 {
+	position: absolute;
+	overflow: visible;
+	width: 1px;
+	height: 22px;
+	left: 36px;
+	top: 14px;
+}
+.Rectangle_691 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 420px;
+	height: 292px;
+	left: 128px;
+	top: 679px;
+}
+#Dropdown_1 {
+	position: absolute;
+	width: 360px;
+	height: 50px;
+	left: 144px;
+	top: 707px;
+	overflow: visible;
+}
+.Rectangle_686 {
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_689 {
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	height: 50px;
+	left: 310px;
+	top: 0px;
+}
+#Respiratory_Problems {
+	position: absolute;
+	left: 20px;
+	top: 13px;
+	overflow: visible;
+	width: 162px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(38,153,251,1);
+}
+.Path_36_ {
+	overflow: visible;
+	position: absolute;
+	width: 9.4px;
+	height: 6.1px;
+	left: 330.35px;
+	top: 22px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Dropdown_2_ {
+	position: absolute;
+	width: 360px;
+	height: 150px;
+	left: 144px;
+	top: 776px;
+	overflow: visible;
+}
+.Rectangle_684 {
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 150px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_690 {
+	opacity: 0.5;
+}
+.Rectangle_690 {
+	position: absolute;
+	overflow: visible;
+	width: 360px;
+	height: 51px;
+	left: 0px;
+	top: 50px;
+}
+#Pneumonia {
+	position: absolute;
+	left: 20px;
+	top: 13px;
+	overflow: visible;
+	width: 86px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(38,153,251,1);
+}
+#Asthma {
+	position: absolute;
+	left: 20px;
+	top: 63px;
+	overflow: visible;
+	width: 58px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(38,153,251,1);
+}
+#Immuno_compromised {
+	position: absolute;
+	left: 20px;
+	top: 113px;
+	overflow: visible;
+	width: 173px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 17px;
+	color: rgba(38,153,251,1);
+}
+#Symbol_148___1 {
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	left: 324px;
+	top: 67px;
+	overflow: visible;
+}
+.Rectangle_460 {
+	position: absolute;
+	overflow: visible;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+}
+.Checkbox {
+	overflow: visible;
+	position: absolute;
+	width: 16px;
+	height: 11.034px;
+	left: 0px;
+	top: 2px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_692 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 420px;
+	height: 71px;
+	left: 128px;
+	top: 626px;
+}
+#Pre_existing_conditions {
+	position: absolute;
+	left: 149px;
+	top: 636px;
+	overflow: visible;
+	width: 254px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+.Rectangle_91 {
+	position: absolute;
+	overflow: visible;
+	width: 280px;
+	height: 305px;
+	left: 683px;
+	top: 419px;
+}
+#ID25_May_2020 {
+	position: absolute;
+	left: 746px;
+	top: 453px;
+	overflow: visible;
+	width: 156px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(38,153,251,1);
+}
+#button {
+	position: absolute;
+	width: 280px;
+	height: 70px;
+	left: 683px;
+	top: 654px;
+	overflow: visible;
+}
+.Rectangle_176_bm {
+	position: absolute;
+	overflow: visible;
+	width: 280px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+}
+#Medium_Risk {
+	position: absolute;
+	left: 64px;
+	top: 14px;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Price {
+	position: absolute;
+	width: 88px;
+	height: 44px;
+	left: 775px;
+	top: 539px;
+	overflow: visible;
+}
+#ID36_br {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(38,153,251,1);
+}
+#cases {
+	position: absolute;
+	left: 52px;
+	top: 23px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(38,153,251,1);
+}
+#ID36_br {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(38,153,251,1);
+}
+.Rectangle_91_bs {
+	position: absolute;
+	overflow: visible;
+	width: 280px;
+	height: 305px;
+	left: 1034px;
+	top: 419px;
+}
+#button_bt {
+	position: absolute;
+	width: 280px;
+	height: 70px;
+	left: 1034px;
+	top: 654px;
+	overflow: visible;
+}
+.Rectangle_176_bu {
+	position: absolute;
+	overflow: visible;
+	width: 280px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+}
+#Medium___High_Risk {
+	position: absolute;
+	left: 25px;
+	top: 14px;
+	overflow: visible;
+	width: 231px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#ID26_May_2020 {
+	position: absolute;
+	left: 1097px;
+	top: 451px;
+	overflow: visible;
+	width: 156px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(38,153,251,1);
+}
+.Rectangle_91_bx {
+	position: absolute;
+	overflow: visible;
+	width: 280px;
+	height: 305px;
+	left: 1385px;
+	top: 419px;
+}
+#button_by {
+	position: absolute;
+	width: 280px;
+	height: 70px;
+	left: 1385px;
+	top: 654px;
+	overflow: visible;
+}
+.Rectangle_176_bz {
+	position: absolute;
+	overflow: visible;
+	width: 280px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+}
+#High_Risk {
+	position: absolute;
+	left: 84px;
+	top: 14px;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#ID27_May_2020 {
+	position: absolute;
+	left: 1448px;
+	top: 451px;
+	overflow: visible;
+	width: 156px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(38,153,251,1);
+}
+#Price_b {
+	position: absolute;
+	width: 88px;
+	height: 44px;
+	left: 1482px;
+	top: 539px;
+	overflow: visible;
+}
+#ID82 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(38,153,251,1);
+}
+#cases_b {
+	position: absolute;
+	left: 52px;
+	top: 23px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(38,153,251,1);
+}
+#Price_ca {
+	position: absolute;
+	width: 88px;
+	height: 44px;
+	left: 1131px;
+	top: 539px;
+	overflow: visible;
+}
+#ID47 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(38,153,251,1);
+}
+#cases_ca {
+	position: absolute;
+	left: 52px;
+	top: 23px;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(38,153,251,1);
+}
