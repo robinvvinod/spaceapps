@@ -1,3 +1,10 @@
+@font-face {
+    font-family: 'Avenir';
+    src: "AvenirLTStd-Medium.otf";
+    src: "AvenirLTStd-Book.otf";
+    src: "AvenirLTStd-Roman.otf";
+}
+
 .mediaViewInfo {
 	--web-view-name: Web 1920 – 1;
 	--web-view-id: Web_1920___1;
