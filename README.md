@@ -1,4 +1,4 @@
-# Submitted to NASA Covid-10 SpaceAppsChallenge
+# Submitted to NASA Covid-19 SpaceAppsChallenge
 
 ## CovidView: Is it safe? Covid-19 hotspot prediction
 
