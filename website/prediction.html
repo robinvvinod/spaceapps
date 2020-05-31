@@ -5,8 +5,8 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Home</title>
-<link rel="stylesheet" type="text/css" id="applicationStylesheet" href="../static/projectionmap.css"/>
-<script id="applicationScript" type="text/javascript" src="projectionmap.js"></script>
+<link rel="stylesheet" type="text/css" id="applicationStylesheet" href="prediction.css"/>
+<script id="applicationScript" type="text/javascript" src="prediction.js"></script>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 <script>L_PREFER_CANVAS=false; L_NO_TOUCH=false; L_DISABLE_3D=false;</script>
 <script src="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.js"></script>
@@ -33,6 +33,7 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+</head>
 <body>
 <div id="Web_1920___1">
 	<svg class="Rectangle_3">
@@ -43,7 +44,7 @@
 		<rect fill="rgba(255,255,255,1)" id="Rectangle_1" rx="0" ry="0" x="0" y="0" width="1920" height="109">
 		</rect>
 	</svg>
-	<img id="Image_1" src="../static/Image_1.png" srcset="../static/Image_1.png 1x, ../static/Image_1@2x.png 2x">
+	<img id="Image_1" src="Image_1.png" srcset="Image_1.png 1x, Image_1@2x.png 2x">
 	<div id="CovidView">
 		<span>CovidView</span>
 	</div>
@@ -51,8 +52,8 @@
 		<rect fill="rgba(255,255,255,1)" stroke="rgba(62,162,255,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_2" rx="0" ry="0" x="0" y="0" width="1729" height="69">
 		</rect>
 	</svg>
-	<div id="ID7_day_Projections">
-		<span>7-day projections for daily cases</span>
+	<div id="ID7_day_Predictions_Of_Daily_C">
+		<span>7-day Predictions Of Daily Cases</span>
 	</div>
     <div class="folium-map" id="map_67b5b979c80a44c8814e21adedaeada2" ></div>
 	<svg class="Rectangle_5">
@@ -132,7 +133,35 @@
 	<div id="County">
 		<span>County</span>
 	</div>
-	<img id="index" src="../static/pred.png" srcset="../static/pred.png 1x, ../static/pred@2x.png 2x">
+	<img id="index" src="index.png" srcset="index.png 1x, index@2x.png 2x">
+	<svg class="Rectangle_698">
+		<rect fill="rgba(255,255,255,0.502)" stroke="rgba(0,0,0,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_698" rx="0" ry="0" x="0" y="0" width="369" height="67">
+		</rect>
+	</svg>
+	<svg class="Rectangle_699">
+		<rect fill="rgba(136,255,136,0.502)" stroke="rgba(0,0,0,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_699" rx="0" ry="0" x="0" y="0" width="343" height="67">
+		</rect>
+	</svg>
+	<svg class="Rectangle_700">
+		<rect fill="rgba(255,255,255,0.502)" stroke="rgba(0,0,0,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_700" rx="0" ry="0" x="0" y="0" width="374" height="67">
+		</rect>
+	</svg>
+    <a href="homepage.html">
+	<div id="Risk_Assessment_">
+		<span>Risk Assessment </span>
+	</div>
+    </a>
+	<div id="Predictions">
+		<span>Predictions</span>
+	</div>
+    <a href="riskprofile.html">
+	<div id="Personal_Risk">
+		<span>Personal Risk</span>
+	</div>
+    </a>
+	<div id="May_21st__2020">
+		<span>May 21st, 2020</span>
+	</div>
 </div>
 </body>
 <script>

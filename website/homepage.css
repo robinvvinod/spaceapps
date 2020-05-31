@@ -1,0 +1,362 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 3;
+	--web-view-id: Web_1920___3;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920___3;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920___3 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 3;
+	--web-view-id: Web_1920___3;
+	--web-enable-deep-linking: true;
+}
+.Rectangle_1 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1938px;
+	height: 127px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_691 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 988px;
+	height: 421px;
+	left: 829px;
+	top: 210px;
+}
+.Rectangle_2 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 342px;
+	height: 87px;
+	left: 53px;
+	top: 143px;
+}
+#Enter_your_county___ {
+	position: absolute;
+	left: 71px;
+	top: 157px;
+	overflow: visible;
+	width: 260px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+#Projected_cases_in_next_7_days {
+	position: absolute;
+	left: 853px;
+	top: 225px;
+	overflow: visible;
+	width: 391px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#thermometer {
+	position: absolute;
+	width: 58px;
+	height: 182px;
+	left: 1323px;
+	top: 305px;
+	overflow: visible;
+}
+.Path_37 {
+	overflow: visible;
+	position: absolute;
+	width: 20.342px;
+	height: 17.593px;
+	transform: matrix(1,0,0,1,1312.5325,364.0609) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_692 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 988px;
+	height: 85px;
+	left: 829px;
+	top: 143px;
+}
+#Hennepin_County__MN {
+	position: absolute;
+	left: 852px;
+	top: 152px;
+	overflow: visible;
+	width: 420px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 42px;
+	color: rgba(112,112,112,1);
+}
+.Rectangle_696 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1774px;
+	height: 364px;
+	left: 43px;
+	top: 710px;
+}
+.Rectangle_697 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1774px;
+	height: 84px;
+	left: 43px;
+	top: 641px;
+}
+#Similar_Counties {
+	position: absolute;
+	left: 85px;
+	top: 649px;
+	overflow: visible;
+	width: 304px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 42px;
+	color: rgba(112,112,112,1);
+}
+#hennepin {
+	position: absolute;
+	width: 411px;
+	height: 289px;
+	left: 852px;
+	top: 274px;
+	overflow: visible;
+}
+#saluda {
+	position: absolute;
+	width: 389px;
+	height: 278px;
+	left: 134px;
+	top: 762px;
+	overflow: visible;
+}
+#cottonwood {
+	position: absolute;
+	width: 382px;
+	height: 278px;
+	left: 713px;
+	top: 762px;
+	overflow: visible;
+}
+#robertson {
+	position: absolute;
+	width: 389px;
+	height: 278px;
+	left: 1273px;
+	top: 762px;
+	overflow: visible;
+}
+#__Increased_mobility___High_re {
+	position: absolute;
+	left: 1463px;
+	top: 290px;
+	overflow: visible;
+	width: 297px;
+	height: 283px;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(0,0,0,1);
+}
+#Risk_Factors {
+	position: absolute;
+	left: 1463px;
+	top: 228px;
+	overflow: visible;
+	width: 211px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(112,112,112,1);
+}
+#Saluda__SC {
+	position: absolute;
+	left: 260px;
+	top: 720px;
+	overflow: visible;
+	width: 146px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+#Cottonwood__MN {
+	position: absolute;
+	left: 806px;
+	top: 721px;
+	overflow: visible;
+	width: 237px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+#Robertson__TN {
+	position: absolute;
+	left: 1397px;
+	top: 723px;
+	overflow: visible;
+	width: 196px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+#CovidView {
+	position: absolute;
+	left: 129px;
+	top: 24px;
+	overflow: visible;
+	width: 232px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 48px;
+	color: rgba(112,112,112,1);
+}
+.Rectangle_701 {
+	filter: drop-shadow(3px 6px 12px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 405px;
+	height: 103px;
+	left: 489px;
+	top: 23px;
+}
+.Rectangle_702 {
+	filter: drop-shadow(4px 4px 5px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 358px;
+	height: 82px;
+	left: 858px;
+	top: 23px;
+}
+.Rectangle_703 {
+	filter: drop-shadow(3px 6px 12px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 410px;
+	height: 103px;
+	left: 1201px;
+	top: 23px;
+}
+#Risk_Assessment_ {
+	filter: drop-shadow(4px 4px 5px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	left: 546px;
+	top: 33px;
+	overflow: visible;
+	width: 280px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(0,0,0,1);
+}
+#Predictions {
+	filter: drop-shadow(4px 4px 5px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	left: 938px;
+	top: 31px;
+	overflow: visible;
+	width: 182px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(0,0,0,1);
+}
+#Personal_Risk {
+	filter: drop-shadow(4px 4px 5px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	left: 1285px;
+	top: 31px;
+	overflow: visible;
+	width: 216px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(0,0,0,1);
+}
+#May_21st__2020 {
+	position: absolute;
+	left: 1709px;
+	top: 40px;
+	overflow: visible;
+	width: 192px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(112,112,112,1);
+}
+#Image_1 {
+	position: absolute;
+	width: 93px;
+	height: 93px;
+	left: 26px;
+	top: 8px;
+	overflow: visible;
+}

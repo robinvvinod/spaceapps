@@ -40,28 +40,6 @@
 	left: 0px;
 	top: 0px;
 }
-#Image_1 {
-	position: absolute;
-	width: 93px;
-	height: 93px;
-	left: 38px;
-	top: 8px;
-	overflow: visible;
-}
-#CovidView {
-	position: absolute;
-	left: 161px;
-	top: 27px;
-	overflow: visible;
-	width: 194px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Avenir;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 40px;
-	color: rgba(112,112,112,1);
-}
 .Rectangle_2 {
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
 	position: absolute;
@@ -437,7 +415,7 @@
 	top: 654px;
 	overflow: visible;
 }
-.Rectangle_176_bm {
+.Rectangle_176_bl {
 	position: absolute;
 	overflow: visible;
 	width: 280px;
@@ -467,7 +445,7 @@
 	top: 539px;
 	overflow: visible;
 }
-#ID36_br {
+#ID36_bq {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -495,7 +473,7 @@
 	font-size: 14px;
 	color: rgba(38,153,251,1);
 }
-#ID36_br {
+#ID36_bq {
 	position: absolute;
 	left: 0px;
 	top: 0px;
@@ -509,7 +487,7 @@
 	font-size: 40px;
 	color: rgba(38,153,251,1);
 }
-.Rectangle_91_bs {
+.Rectangle_91_br {
 	position: absolute;
 	overflow: visible;
 	width: 280px;
@@ -517,7 +495,7 @@
 	left: 1034px;
 	top: 419px;
 }
-#button_bt {
+#button_bs {
 	position: absolute;
 	width: 280px;
 	height: 70px;
@@ -525,7 +503,7 @@
 	top: 654px;
 	overflow: visible;
 }
-.Rectangle_176_bu {
+.Rectangle_176_bt {
 	position: absolute;
 	overflow: visible;
 	width: 280px;
@@ -561,7 +539,7 @@
 	font-size: 25px;
 	color: rgba(38,153,251,1);
 }
-.Rectangle_91_bx {
+.Rectangle_91_bw {
 	position: absolute;
 	overflow: visible;
 	width: 280px;
@@ -569,7 +547,7 @@
 	left: 1385px;
 	top: 419px;
 }
-#button_by {
+#button_bx {
 	position: absolute;
 	width: 280px;
 	height: 70px;
@@ -577,7 +555,7 @@
 	top: 654px;
 	overflow: visible;
 }
-.Rectangle_176_bz {
+.Rectangle_176_by {
 	position: absolute;
 	overflow: visible;
 	width: 280px;
@@ -684,4 +662,126 @@
 	font-weight: normal;
 	font-size: 14px;
 	color: rgba(38,153,251,1);
+}
+#CovidView {
+	position: absolute;
+	left: 129px;
+	top: 29px;
+	overflow: visible;
+	width: 232px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 48px;
+	color: rgba(112,112,112,1);
+}
+.Rectangle_701 {
+	filter: drop-shadow(3px 6px 12px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 405px;
+	height: 103px;
+	left: 489px;
+	top: 28px;
+}
+.Rectangle_702 {
+	filter: drop-shadow(4px 4px 5px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 358px;
+	height: 82px;
+	left: 858px;
+	top: 28px;
+}
+.Rectangle_703 {
+	filter: drop-shadow(3px 6px 12px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 410px;
+	height: 103px;
+	left: 1201px;
+	top: 28px;
+}
+#Risk_Assessment_ {
+	filter: drop-shadow(4px 4px 5px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	left: 546px;
+	top: 38px;
+	overflow: visible;
+	width: 280px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(0,0,0,1);
+}
+#Predictions {
+	filter: drop-shadow(4px 4px 5px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	left: 938px;
+	top: 36px;
+	overflow: visible;
+	width: 182px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(0,0,0,1);
+}
+#Personal_Risk {
+	filter: drop-shadow(4px 4px 5px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	left: 1285px;
+	top: 36px;
+	overflow: visible;
+	width: 216px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(0,0,0,1);
+}
+#May_21st__2020 {
+	position: absolute;
+	left: 1709px;
+	top: 45px;
+	overflow: visible;
+	width: 192px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(112,112,112,1);
+}
+#Image_1 {
+	position: absolute;
+	width: 93px;
+	height: 93px;
+	left: 26px;
+	top: 13px;
+	overflow: visible;
+}
+#__Risk_is_calculated_based_on_ {
+	position: absolute;
+	left: 1322px;
+	top: 959px;
+	overflow: visible;
+	width: 486px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(112,112,112,1);
 }

@@ -50,16 +50,16 @@
 }
 #CovidView {
 	position: absolute;
-	left: 161px;
-	top: 27px;
+	left: 141px;
+	top: 24px;
 	overflow: visible;
-	width: 194px;
+	width: 232px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Avenir;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 40px;
+	font-size: 48px;
 	color: rgba(112,112,112,1);
 }
 .Rectangle_2 {
@@ -71,12 +71,12 @@
 	left: 85px;
 	top: 154px;
 }
-#ID7_day_Projections {
+#ID7_day_Predictions_Of_Daily_C {
 	position: absolute;
 	left: 103px;
 	top: 168px;
 	overflow: visible;
-	width: 232px;
+	width: 437px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Avenir;
@@ -327,4 +327,90 @@
 	left: 1172px;
 	top: 543px;
 	overflow: visible;
+}
+.Rectangle_698 {
+	filter: drop-shadow(3px 6px 12px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 405px;
+	height: 103px;
+	left: 501px;
+	top: 23px;
+}
+.Rectangle_699 {
+	filter: drop-shadow(4px 4px 5px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 358px;
+	height: 82px;
+	left: 870px;
+	top: 23px;
+}
+.Rectangle_700 {
+	filter: drop-shadow(3px 6px 12px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 410px;
+	height: 103px;
+	left: 1213px;
+	top: 23px;
+}
+#Risk_Assessment_ {
+	filter: drop-shadow(4px 4px 5px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	left: 558px;
+	top: 33px;
+	overflow: visible;
+	width: 280px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(0,0,0,1);
+}
+#Predictions {
+	filter: drop-shadow(4px 4px 5px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	left: 950px;
+	top: 31px;
+	overflow: visible;
+	width: 182px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(0,0,0,1);
+}
+#Personal_Risk {
+	filter: drop-shadow(4px 4px 5px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	left: 1297px;
+	top: 31px;
+	overflow: visible;
+	width: 216px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(0,0,0,1);
+}
+#May_21st__2020 {
+	position: absolute;
+	left: 1721px;
+	top: 40px;
+	overflow: visible;
+	width: 192px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Avenir;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(112,112,112,1);
 }
